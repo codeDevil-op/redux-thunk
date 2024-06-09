@@ -9,3 +9,5 @@
     i) - for axios -- npm i axios 
     Major Benenift of using axios for API,
      In axios when we call API, the data we get through API by default is in json format.
+4) - if you are using simple css table or other headings to show fetch data from api (as i comment in code in MyData file) than skip step 4 otherwise you need to install ant desine to add the table component and use it. by the following command you able to install ant design.
+   i) antDesign -- npm i antd
